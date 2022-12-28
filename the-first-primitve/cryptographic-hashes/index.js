@@ -11,9 +11,9 @@ function findColor(hash) {
 
 // Code Explanation - Line 9:
 // ------
-// The find function goes through each element within the COLORS array. 
-// It returns the first element converted from a string representing a color 
-// to a hash and then reconverted to a string(hexadecimal value) that matches 
-// the supplied findColor hash's string.
+// The find function goes through each element within the COLORS array.
+// It returns the first element that when converted from a string representing
+// a color to a hash and than converted to a string of hexadecimal characters that 
+// matches the supplied findColor hash's string of hexadecimal characters.
 
 module.exports = findColor;
