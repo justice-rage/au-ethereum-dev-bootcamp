@@ -8,7 +8,7 @@ A large reason for this repo is as a record of my learnings and solutions to pro
 
 |                        |                      |
 |------------------------|----------------------|
-| Ethereum Developer Bootcamp | |
+| Ethereum Developer Bootcamp | Status |
 | Week 1 | Incomplete |
 | Week 2 | Incomplete |
 | Week 3 | Incomplete |
