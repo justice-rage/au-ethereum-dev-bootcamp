@@ -8,14 +8,14 @@ A large reason for this repo is as a record of my learnings and solutions to pro
 
 |                        |                      |
 |------------------------|----------------------|
-| Ethereum Developer Bootcamp | Status |
-| Week 1 | Incomplete |
-| Week 2 | Incomplete |
-| Week 3 | Incomplete |
-| Week 4 | Incomplete |
-| Week 5 | Incomplete |
-| Week 6 | Incomplete |
-| Week 7 | Incomplete |
+| Ethereum Developer Bootcamp | Status | Percentage |
+| Week 1 | Incomplete | 33% |
+| Week 2 | Incomplete | |
+| Week 3 | Incomplete | |
+| Week 4 | Incomplete | |
+| Week 5 | Incomplete | |
+| Week 6 | Incomplete | |
+| Week 7 | Incomplete | |
 
 ---
 
