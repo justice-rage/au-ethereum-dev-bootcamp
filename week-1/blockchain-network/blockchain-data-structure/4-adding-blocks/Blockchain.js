@@ -6,7 +6,7 @@ class Blockchain {
     }
 
     addBlock(block) {
-        this.chain.push(block)
+        this.chain.push(block);
     }
 }
 
